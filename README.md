@@ -89,7 +89,31 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+
+## Dataset:
+![Screenshot 2025-04-28 154430](https://github.com/user-attachments/assets/271745ac-374a-4aa0-94ce-8fbcac4e93b1)
+
+## Head values:
+![Screenshot 2025-04-28 154443](https://github.com/user-attachments/assets/4d7a6029-bd58-4fde-b833-9cc10e156c2d)
+
+## Tail values:
+![Screenshot 2025-04-28 154451](https://github.com/user-attachments/assets/ecd86811-a12b-42db-8dcd-031ba30d82f4)
+
+## X and Y values :
+![Screenshot 2025-04-28 154506](https://github.com/user-attachments/assets/1b72eb63-5bd9-4cc7-9456-3d429010f8b4)
+
+## Predication values of X and Y :
+![Screenshot 2025-04-28 154520](https://github.com/user-attachments/assets/9bdcf6b1-898b-4a26-96ce-56ccad4ecba2)
+
+## MSE,MAE and RMSE:
+![Screenshot 2025-04-28 154531](https://github.com/user-attachments/assets/b9af49d2-badb-4ee3-ac3b-aa330cc02170)
+
+## Training set :
+![Screenshot 2025-04-28 154542](https://github.com/user-attachments/assets/9eadb997-c90d-4ceb-9144-5500131990ea)
+
+## Testing Set:
+![Screenshot 2025-04-28 154555](https://github.com/user-attachments/assets/161e3c16-6dfb-48e3-95b3-1eb7b207540e)
+
 
 
 ## Result:
