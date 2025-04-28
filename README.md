@@ -7,10 +7,7 @@ To write a program to predict the marks scored by a student using the simple lin
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
-
-## Program:
-```
+## Algorithm```
 /*
 Program to imp1.Import the standard Libraries.
 
@@ -23,9 +20,15 @@ Program to imp1.Import the standard Libraries.
 5.Predict the regression for marks by using the representation of the graph.
 
 6.Compare the graphs and hence we obtained the linear regression for the given datas.lement the simple linear regression model for predicting the marks scored.
-Developed by: 
-RegisterNumber:  
+Developed by: RAGUL K R 
+RegisterNumber:212224240123  
 */
+```
+
+
+## Program:
+```
+
 ```
 
 ## Output:
